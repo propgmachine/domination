@@ -38,7 +38,7 @@ removeLastArgument();
 removeLastArgument();
 
 //=====================================================================
-// Part 1, Problem 6
+// Part 1, Problem 7
 
 '#my-id'
 'my-id'
